@@ -10,13 +10,15 @@
           {
             "id": "8b0a3167b523b485",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 05-08.md",
+                "file": "TAESS II/Aula 05-08.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Aula 05-08"
             }
@@ -189,7 +191,12 @@
   },
   "active": "8b0a3167b523b485",
   "lastOpenFiles": [
-    "Aula 05-08.md",
+    "Excalidraw/Rascunho 05-08.excalidraw.md",
+    "TAESS II/Aula 05-08.md",
+    "PAA",
+    "TAESS II",
+    "Mapa Mental.md",
+    "Excalidraw",
     "Bem-vindo.md"
   ]
 }
