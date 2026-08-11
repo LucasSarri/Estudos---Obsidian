@@ -19,3 +19,4 @@ São 3 provas, de 0 a 10 de peso 1. Nota final é uma média aritmética das 3 p
 
 # Aulas
 [[PAA/Aula 05-08|Aula 1]]
+[[PAA/Aula 07-08|Aula 2]]

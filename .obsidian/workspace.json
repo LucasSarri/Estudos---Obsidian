@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "17dbe3a64c8ea4f1",
+        "id": "89bf05e66bba47b1",
         "type": "tabs",
         "children": [
           {
-            "id": "cf84e04b247ac745",
+            "id": "9f15ea77a26c8b6a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAA/Aula 05-08.md",
+                "file": "QS/Aula 11-08.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Aula 05-08"
+              "title": "Aula 11-08"
             }
           }
         ]
@@ -190,11 +190,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf84e04b247ac745",
+  "active": "9f15ea77a26c8b6a",
   "lastOpenFiles": [
+    "QS/Aula 11-08.md",
+    "QS",
+    "Excalidraw/Rascunho PAA 07-08.excalidraw.md",
+    "PAA/Aula  07-08.md",
+    "Excalidraw/Rascunho 05-08.excalidraw.md",
     "PAA/Apresentação Matéria.md",
     "PAA/Aula 05-08.md",
-    "Excalidraw/Rascunho 05-08.excalidraw.md",
     "Sem título.base",
     "Sem título.canvas",
     "TAESS II/Aula 05-08.md",
