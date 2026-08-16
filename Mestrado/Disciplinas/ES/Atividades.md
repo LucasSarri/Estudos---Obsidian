@@ -1,0 +1,1 @@
+- Elaborar documento de requisitos funcionais e não funcionais de um determinado sistema.

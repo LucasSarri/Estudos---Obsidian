@@ -1,0 +1,4 @@
+Fonte: ACM
+Link: https://dl.acm.org/doi/10.1145/3802463.3802489
+
+Este estudo apresenta o design e a avaliação de um website gamificado e personalizado por IA, com o objetivo de melhorar a consciencialização sobre segurança cibernética entre estudantes de gestão empresarial. A plataforma integra agentes inteligentes para adaptar a dificuldade do conteúdo, fornecer feedback em tempo real e personalizar os percursos de aprendizagem com base no comportamento do utilizador. São incorporados elementos de gamificação, incluindo desafios baseados em cenários, distintivos de progresso e simulações interativas, para melhorar o envolvimento e a retenção. Uma implementação piloto em duas intituições de ensino superior mediu os resultados de aprendizagem, as méticas de envolvimento e a usabilidade.

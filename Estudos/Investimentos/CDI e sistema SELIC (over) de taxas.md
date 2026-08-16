@@ -1,0 +1,2 @@
+* CDI, Certificado de Depósito Interbancário, taxa de referência para as operações de empréstimo entre bancos considerando prazos muito curtos. Em troca do um empréstimo, o banco que tomou ele deve disponibilizar certificados, a média dessas operações entre todas as operações vai gerara taxa DI ou CDI. A referência desses empréstimos é a taxa SELIC (meta).
+* Quando um banco pega dinheiro emprestado de outro, ele coloca seus títulos públicos como garantia, a média dessas transações gera a SELIC (over) e usa a taxa SELIC (meta) como referência.

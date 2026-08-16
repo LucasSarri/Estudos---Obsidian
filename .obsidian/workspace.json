@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "89bf05e66bba47b1",
+        "id": "d30a988722da8b27",
         "type": "tabs",
         "children": [
           {
-            "id": "9f15ea77a26c8b6a",
+            "id": "015316579fde163c",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QS/Aula 11-08.md",
+                "file": "Mestrado/Disciplinas/QS/Fichamento Sustainable software engineering.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Aula 11-08"
+              "title": "Fichamento Sustainable software engineering"
             }
           }
         ]
@@ -48,7 +48,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -180,32 +180,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f15ea77a26c8b6a",
+  "active": "015316579fde163c",
   "lastOpenFiles": [
-    "QS/Aula 11-08.md",
-    "QS",
-    "Excalidraw/Rascunho PAA 07-08.excalidraw.md",
-    "PAA/Aula  07-08.md",
-    "Excalidraw/Rascunho 05-08.excalidraw.md",
-    "PAA/Apresentação Matéria.md",
-    "PAA/Aula 05-08.md",
-    "Sem título.base",
-    "Sem título.canvas",
-    "TAESS II/Aula 05-08.md",
-    "PAA",
-    "TAESS II",
-    "Mapa Mental.md",
-    "Excalidraw",
-    "Bem-vindo.md"
+    "Mestrado/Disciplinas/QS/Aula 11-08.md",
+    "Mestrado/Disciplinas/QS/Fichamento Sustainable software engineering.md",
+    "Excalidraw/Fluency - Backend.md",
+    "Excalidraw/Engenharia de Software - UML.md",
+    "Excalidraw/Engenharia de Software - Diagrama de Classes.md",
+    "Programas Usados.md",
+    "Anotações Benevita.md",
+    "Projetos para Portifólio/Projetos a fazer.md",
+    "Projetos para Portifólio",
+    "Poscomp/Questão 46 - 2024.md",
+    "Poscomp/Questão 45 - 2024.md",
+    "Poscomp/Questão 36 - 2024.md",
+    "Poscomp/Questão 35 - 2024.md",
+    "Poscomp/Questão 22 - 2024.md",
+    "Poscomp/Questão 05 - 2024.md",
+    "Poscomp/Pasted image 20250629173054.png",
+    "Poscomp",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/MEITREX - Gamified and Adaptive Intelligent Tutoring\nin Software Engineering Education.pdf",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Integration of Learning Framework for Software Engineering Education.pdf",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Gamification in software engineering education through Visual Novels.pdf",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Gamification in Software Engineering Education:a Tertiary Study.pdf",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Gamification applied for Software Engineering teaching-learning process.pdf",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Evaluating the Impact of Scaffolding and Visualizations for Mutation Testing Exercises in Software Engineering Education.pdf",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Enhancing Motivation in Software Engineering Education\nthrough Gamified Agile Project-based Learning.pdf",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações MEITREX - Gamified and Adaptive Intelligent Tutoring in Software Engineering Education.md",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Integration of Learning Framework for Software Engineering Education.md",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Gamification in software engineering education through Visual Novels.md",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Gamification in Software Engineering Education.md",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Gamification applied for Software Engineering teaching-learning process.md",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Evaluating the Impact of Scaffolding and Visualizations for Mutation Testing Exercises in Software Engineering Education.md",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Enhancing Motivation in Software Engineering Education.md",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 1/The Future of AI-Driven Software Engineering-1.pdf",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Anotações Understanding Software-2.0 A Study of Machine LearningLibrary Usage and Evolution.md",
+    "Mestrado/Disciplinas/MADS/Seminario MADS/Anotações Research on the Design and Implementation of Chronic Disease Management System Based on Microservice Architecture.md",
+    "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260414102255.png",
+    "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260408170836.png",
+    "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260408170318.png",
+    "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260408170241.png",
+    "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260319104908.png",
+    "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260315141926.png",
+    "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260315131309.png",
+    "Mestrado/Dissertação/Fichamentos/Fichamento Research on the Influence Mechanism of Gamification Elements on User Satisfaction of ERP Training.md",
+    "Mestrado/Dissertação/Fichamentos/Fichamento Learning Ethics at Work through Play.md",
+    "Mestrado/Dissertação/Fichamentos/Fichamento Gamifying Video-Based Training.md",
+    "Mestrado/Disciplinas/ES/Pasted image 20260505142118.png",
+    "Faculdade/TSID/Pasted image 20250630211602.png",
+    "Estudos/ROADMAP DESEVOLVIMENTO WEB.canvas",
+    "Sem título.canvas"
   ]
 }

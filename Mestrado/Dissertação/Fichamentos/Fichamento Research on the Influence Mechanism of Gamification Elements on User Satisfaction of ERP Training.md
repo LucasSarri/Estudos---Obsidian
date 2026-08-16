@@ -1,0 +1,4 @@
+Fonte: ACM
+Link: [https://dl.acm.org/doi/10.1145/3803437.3805777](https://dl.acm.org/doi/10.1145/3695652.3695662)
+
+O estudo analisa a eficácia de um sistema gamificado de formação em ERP e explora o impacto de diferentes tipos de elementos gamificados na satisfação do utilizador. Com base na teoria da autodeterminação, este estudo realiza um estudo empírico sobre os dados de ==survey== de 194 conjuntos de amostras do sistema gamificado de formação em ERP, e explora o mecanismo pelo qual os diferentes tipos de elementos de gamificação no sistema de formação em ERP afetam a satisfação do utilizador.
