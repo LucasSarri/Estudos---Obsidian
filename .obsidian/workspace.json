@@ -10,18 +10,37 @@
           {
             "id": "3014b965009d059d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Investimentos/Peer-to-peer lending.md",
+                "file": "Mestrado/Disciplinas/QS/Fichamento Sustainable software engineering.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Peer-to-peer lending"
+              "title": "Fichamento Sustainable software engineering"
+            }
+          },
+          {
+            "id": "066204d80728d65c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mestrado/Disciplinas/QS/Aula 18-08-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Aula 18-08-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,16 +207,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3014b965009d059d",
+  "active": "066204d80728d65c",
   "lastOpenFiles": [
-    "Estudos/Investimentos/CRA e CRI.md",
-    "Estudos/Investimentos/Peer-to-peer lending.md",
-    "Estudos/Investimentos/LCI e LCA - Investimentos sem Impostos.md",
+    "Estudos/Investimentos/O que é Renda Fixa?.md",
+    "Estudos/Investimentos/SELIC (meta) e inflação.md",
+    "Estudos/Investimentos/Tesouros Diretos e Títulos Públicos.md",
     "Estudos/Investimentos/CDB e LC.md",
-    "Estudos/Concursos/PSS - Edital 52-2026 – GS-SEED.md",
+    "Mestrado/Disciplinas/QS/Aula 18-08-2026.md",
+    "Excalidraw/Drawing 2026-08-18 08.19.19.excalidraw.md",
     "Mestrado/Disciplinas/QS/Fichamento Sustainable software engineering.md",
-    "Estudos/Concursos",
+    "Mestrado/Disciplinas/QS/Apresentação da matéria - 04-08.md",
     "Mestrado/Disciplinas/QS/Aula 11-08.md",
+    "Mestrado/Disciplinas/QS/Drawing 2026-08-04 10.25.24.excalidraw.md",
+    "Mestrado/Disciplinas/QS/Fichamento Technical debt is not just technical.md",
+    "Estudos/Investimentos/Peer-to-peer lending.md",
+    "Estudos/Investimentos/CRA e CRI.md",
+    "Estudos/Investimentos/LCI e LCA - Investimentos sem Impostos.md",
+    "Estudos/Concursos/PSS - Edital 52-2026 – GS-SEED.md",
+    "Estudos/Concursos",
     "Excalidraw/Fluency - Backend.md",
     "Excalidraw/Engenharia de Software - UML.md",
     "Excalidraw/Engenharia de Software - Diagrama de Classes.md",
@@ -210,7 +237,6 @@
     "Poscomp/Questão 36 - 2024.md",
     "Poscomp/Questão 35 - 2024.md",
     "Poscomp/Questão 22 - 2024.md",
-    "Poscomp/Questão 05 - 2024.md",
     "Poscomp/Pasted image 20250629173054.png",
     "Poscomp",
     "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/MEITREX - Gamified and Adaptive Intelligent Tutoring\nin Software Engineering Education.pdf",
@@ -220,13 +246,6 @@
     "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Gamification applied for Software Engineering teaching-learning process.pdf",
     "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Evaluating the Impact of Scaffolding and Visualizations for Mutation Testing Exercises in Software Engineering Education.pdf",
     "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Enhancing Motivation in Software Engineering Education\nthrough Gamified Agile Project-based Learning.pdf",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações MEITREX - Gamified and Adaptive Intelligent Tutoring in Software Engineering Education.md",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Integration of Learning Framework for Software Engineering Education.md",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Gamification in software engineering education through Visual Novels.md",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Gamification in Software Engineering Education.md",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Gamification applied for Software Engineering teaching-learning process.md",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Evaluating the Impact of Scaffolding and Visualizations for Mutation Testing Exercises in Software Engineering Education.md",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Enhancing Motivation in Software Engineering Education.md",
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260414102255.png",
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260408170836.png",
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260408170318.png",

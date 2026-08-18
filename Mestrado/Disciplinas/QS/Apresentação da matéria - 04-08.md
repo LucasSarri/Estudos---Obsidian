@@ -72,14 +72,6 @@ Inspeção -> Controle Estatístico -> Garantia da Qualidade -> Gestão da Quali
 - Diagrama de Dispersão
 - Brainstorming: obter um concenso sobre o problema que será investigado.
 
-# Aulas
-[[Aula 1 MPC|Aula 1 - 12-03]]
-[[Ética na Pesquisa|Aula 2 - 19-03]]
-[[Revisão Sistemática de Literatura|Aula 3 - 02-04]]
-[[Revisão Sistemática de Literatura|Aula 4 - 02-04]]
-[[Planejamento da pesquisa|Aula 6 - 23-04]]
-[[Escrita do projeto|Aula 7 - 30-04]]
-[[Escrita de artigo|Aula 8 - 28-05]]
 
 
 
