@@ -1,0 +1,1 @@
+Empréstimo de pessoa para pessoa, você empresta seu dinheiro diretamente para outra pessoa. 

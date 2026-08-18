@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d30a988722da8b27",
+        "id": "e4924ba5379cc95e",
         "type": "tabs",
         "children": [
           {
-            "id": "015316579fde163c",
+            "id": "3014b965009d059d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mestrado/Disciplinas/QS/Fichamento Sustainable software engineering.md",
+                "file": "Estudos/Investimentos/Peer-to-peer lending.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Fichamento Sustainable software engineering"
+              "title": "Peer-to-peer lending"
             }
           }
         ]
@@ -190,10 +188,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "015316579fde163c",
+  "active": "3014b965009d059d",
   "lastOpenFiles": [
-    "Mestrado/Disciplinas/QS/Aula 11-08.md",
+    "Estudos/Investimentos/CRA e CRI.md",
+    "Estudos/Investimentos/Peer-to-peer lending.md",
+    "Estudos/Investimentos/LCI e LCA - Investimentos sem Impostos.md",
+    "Estudos/Investimentos/CDB e LC.md",
+    "Estudos/Concursos/PSS - Edital 52-2026 – GS-SEED.md",
     "Mestrado/Disciplinas/QS/Fichamento Sustainable software engineering.md",
+    "Estudos/Concursos",
+    "Mestrado/Disciplinas/QS/Aula 11-08.md",
     "Excalidraw/Fluency - Backend.md",
     "Excalidraw/Engenharia de Software - UML.md",
     "Excalidraw/Engenharia de Software - Diagrama de Classes.md",
@@ -223,9 +227,6 @@
     "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Gamification applied for Software Engineering teaching-learning process.md",
     "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Evaluating the Impact of Scaffolding and Visualizations for Mutation Testing Exercises in Software Engineering Education.md",
     "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 2/Anotações Enhancing Motivation in Software Engineering Education.md",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Seminario 1/The Future of AI-Driven Software Engineering-1.pdf",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Anotações Understanding Software-2.0 A Study of Machine LearningLibrary Usage and Evolution.md",
-    "Mestrado/Disciplinas/MADS/Seminario MADS/Anotações Research on the Design and Implementation of Chronic Disease Management System Based on Microservice Architecture.md",
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260414102255.png",
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260408170836.png",
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260408170318.png",
@@ -233,9 +234,6 @@
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260319104908.png",
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260315141926.png",
     "Mestrado/Disciplinas/MADS/Imagens/Pasted image 20260315131309.png",
-    "Mestrado/Dissertação/Fichamentos/Fichamento Research on the Influence Mechanism of Gamification Elements on User Satisfaction of ERP Training.md",
-    "Mestrado/Dissertação/Fichamentos/Fichamento Learning Ethics at Work through Play.md",
-    "Mestrado/Dissertação/Fichamentos/Fichamento Gamifying Video-Based Training.md",
     "Mestrado/Disciplinas/ES/Pasted image 20260505142118.png",
     "Faculdade/TSID/Pasted image 20250630211602.png",
     "Estudos/ROADMAP DESEVOLVIMENTO WEB.canvas",
